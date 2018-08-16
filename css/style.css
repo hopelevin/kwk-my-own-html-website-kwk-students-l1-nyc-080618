@@ -1,0 +1,25 @@
+body {
+  font-size: 100%;
+  background-image: url("https://media.giphy.com/media/OsRv6M9Iyv4Bi/giphy.gif");
+
+}
+.rochelleSampleClass{
+  font-size: 200%;
+  color:black;
+  background-color: #FFC065;
+  font-family:Verdana;
+  text-align:center;
+  text-shadow: 1px 1px white;
+}
+
+.rochelleSampleClass2{
+  font-size: 150%;
+  color: white;
+  border: 10px groove #FF8D65;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFC065;
+  font-family:Verdana;
+  text-align:center;
+  text-shadow: 3px 1px #FF8D65;
+}
